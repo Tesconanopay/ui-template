@@ -7,7 +7,7 @@ This is a template file designed to have a quick UI with a global state system a
 -   rainbowkit / [wagmi](https://wagmi.sh/docs/getting-started): Ethereum connection and interaction
 -   [react-toastify](https://github.com/fkhadra/react-toastify): In app messaging
 
-It is heavily influenced by the work on the [V2-UI at BadgerDAO](https://github.com/badger-finance/v2-ui)
+It is heavily influenced by the work i did on the [V2-UI at nano is green](https://github.com/nano-is-green/v2-ui)
 
 To run, simply run `yarn` and then `yarn start`.
 
